@@ -1,0 +1,120 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+body {
+  width: 75%;
+  margin: 0px auto; 
+  background-color: rgba(35, 39, 43, 1.00);
+
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+ }
+
+header {
+  height: 100px;
+ }
+
+header > nav {
+  height: 100%;
+ }
+
+main {
+  flex: 1 0 auto;
+ }
+
+main h1 {
+  font-weight: bold;
+ }
+
+main h2 {
+  font-weight: 300;
+ }
+
+#logo-icon {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+#logo {
+  margin-left: 50px;
+  margin-top: 20px;
+ }
+
+ #head-nav-links {
+  margin-right: 50px;
+  margin-top: 20px;
+ }
+
+.mainpanel{
+  margin: 50px;
+  background-color: rgba(190, 178, 143, 1.00);
+}
+
+ #mainpanel-content {
+  margin: 50px;
+  background-color: rgba(190, 178, 143, 1.00);
+}
+
+.darkblue {
+  background-color: rgba(18, 77, 126, 1.00);
+}
+
+/*-------*/
+
+nav ul a,
+nav .brand-logo {
+  /*color: #444;*/
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+
