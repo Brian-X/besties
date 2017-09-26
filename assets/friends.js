@@ -5,7 +5,7 @@ var friends = [
 {"name":"Bill O'Reily","photo":"http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2016/07/OReillyAdweek.jpg","scores":["5","2","2","2","4","1","3","2","5","5"]},
 {"name":"Michael Moore","photo":"https://media.salon.com/2015/12/michael_moore.jpg","scores":["3","3","4","2","2","1","3","2","2","3"]},
 {"name":"Jane Fonda","photo":"https://www.biography.com/.image/t_share/MTE1ODA0OTcxNjI5NTEyMjA1/jane-fonda-9298034-4-402.jpg","scores":["4","3","4","1","5","2","5","3","1","4"]},
-{"name":"Kim Jong Un","https://cdn.shopify.com/s/files/1/0199/9492/products/KimJongUn_theme-political_T6Vendor_Sweatshirt_FrontModel_1024x1024.jpg?v=1503519470","scores":["4","4","2","3","2","2","3","2","4","5"]},
+{"name":"Kim Jong Un","photo":"https://cdn.shopify.com/s/files/1/0199/9492/products/KimJongUn_theme-political_T6Vendor_Sweatshirt_FrontModel_1024x1024.jpg?v=1503519470","scores":["4","4","2","3","2","2","3","2","4","5"]},
 {"name":"Kim Jong Un in drag","photo":"https://media.giphy.com/media/12juneOf2Rc4ak/giphy.gif","scores":["1","1","1","1","1","1","1","1","1","1"]},
 {"name":"Charlie Sheen","photo":"http://www.billboard.com/files/styles/article_main_image/public/stylus/1028699-charlie-sheen-617-409.jpg","scores":["5","5","5","5","5","5","5","5","5","5"]},
 {"name":"wret","photo":"qwe","scores":["1","1","1","1","1","1","1","1","1","1"]},
