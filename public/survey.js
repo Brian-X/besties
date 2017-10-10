@@ -1,5 +1,6 @@
 $(document).ready(function() {
     // Capture the form inputs 
+    console.log("ready");
     $(document).on('click', '#submit', function() {
     	// Form validation
     	function validateForm() {
